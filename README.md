@@ -39,5 +39,7 @@ Este projeto transforma um **Raspberry Pi Pico (RP2040)** em um remapeador de te
 3. Instale as bibliotecas listadas acima.
 4. Carregue o código e conecte seu teclado na porta USB Host.
 
+![Foto do Projeto](IMG_20260313_152114.jph.jpg)
+
 ---
 Desenvolvido com a ajuda do Gemini AI. 🚀
